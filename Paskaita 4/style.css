@@ -1,0 +1,22 @@
+.content { color: rgb(128, 105, 0);}
+
+.sub-heading{color: blue;
+}
+div{ border: 2px dotted black;
+width: 50%;
+display: block;
+margin: 0 auto;
+text-align: center;
+padding: 20px;
+background-color: rgb(42, 73, 165);}
+.justify-text {text-align: justify;}
+body{background-color: rgba(216, 28, 28, 0.468);
+text-shadow: 0 1px 5px white;}
+
+.colorful-border{
+border-style:solid;
+border-color: blue yellow green white;
+border-width: 25px;
+border-radius: 25px;
+}
+img{margin-top: 50px;}
